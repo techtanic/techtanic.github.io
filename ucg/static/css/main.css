@@ -1,6 +1,7 @@
 /********** Common **********/
 body{
     overflow:hidden;
+    ;
     }
     h2 {
         font-size: 2.8rem !important;
@@ -119,13 +120,13 @@ body{
     }
     
     .parallax-background-image {
-        transform: translateZ(-1.5px) scale(3);
+        transform: translateZ(-1px) scale(3);
         transform-origin: center;
-        height: 100vh;
+        height: 180px;
     }
     
     .parallax-background-image > .image-receiver{
-        min-height: 700px;
+        min-height: 350px;
         min-width: 100%;
         position: relative;
         background-image: url("../images/parallax-bg.png");
@@ -151,8 +152,7 @@ body{
         transform: translateX(-50px) rotate(45deg);
         transition: transform 0.6s ease;
         }
-    .glare:hover {
-        }
+
     .glare:hover:before {
         transform: translateX(250px) rotate(45deg);
         }
