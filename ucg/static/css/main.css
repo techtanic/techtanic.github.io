@@ -73,12 +73,12 @@ button {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-.btn-docs {
+.btn-support {
     background: #192440;
     color: #ffffff;
 }
 
-.btn-docs:hover {
+.btn-support:hover {
     color: #121a2e;
     background: #ffffff;
 }
@@ -111,7 +111,7 @@ button {
 }
 
 .parallax-background-image>.image-receiver {
-    min-height: 560px;
+    min-height: 700px;
     min-width: 100%;
     position: relative;
     background-image: url("../images/bg3.png");
@@ -169,7 +169,7 @@ button {
 }
 
 #info {
-    background: linear-gradient(168deg, #ffffff calc(50% - 2px), #1ba1e2 50%);
+    background: linear-gradient(-160deg, #ffffff calc(50% - 2px), #EC5252 51%);
 }
 
 /********** Copyright **********/
