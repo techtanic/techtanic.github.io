@@ -1,7 +1,7 @@
 /********** Common **********/
 body {
     overflow: hidden;
-   /* background: #28254C;*/
+    background: #283339;
     scroll-behavior: smooth;
 
 }
@@ -100,7 +100,7 @@ button {
 }
 
 .parallax-content-layer {
-    background: white;
+    background: #283339;
     transform-style: preserve-3d;
     box-shadow: rgb(0 0 0 / 30%) 0px 0px 20px 10px;
 }
@@ -131,7 +131,7 @@ button {
     position: absolute;
     width: 13px;
     height: 100px;
-    background: #fff;
+    background: #ffffff;
     bottom: -25px;
     left: 0;
     border: 2px solid #fff;
@@ -169,13 +169,13 @@ button {
 }
 
 #info {
-    background: linear-gradient(-160deg, #ffffff calc(50% - 2px), #EC5252 51%);
+    background: linear-gradient(-160deg,#283339 calc(50% - 2px), #EC5252 51%);
 }
 
 /********** Copyright **********/
 #copyright {
-    background: #192440;
-    padding: 2rem 3rem;
+    background: #283339;
+    padding: 6px;
 }
 
 #copyright #social-media a {
