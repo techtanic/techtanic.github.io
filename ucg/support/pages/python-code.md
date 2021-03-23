@@ -1,10 +1,8 @@
 # Using Python version
 
-## Install Python
-
-Install python from [Official Website](https://www.python.org/downloads/).
-
 ## Install Requirements
+
+Make sure you have [Python](https://www.python.org/downloads/) installed.
 
 ```CMD
 pip install -r requirements.txt

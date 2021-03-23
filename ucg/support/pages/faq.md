@@ -7,6 +7,10 @@
 **Explanation:** So far I and many people have used the software, there has been **no** report of people using Udemy-Course-Grabber getting their account suspended.
 
 
+## Do I need Python to run the Windows 64-bit exe?
+
+**Simple answer:** NO
+
 ## How can I download courses using this software?
 
 **Explanation:** This software is **NOT** for downloading courses. It only enrolls in 100% discounted courses. 
@@ -17,3 +21,4 @@
 
 **Explanation:** Your account will be disabled if you try to download courses using third party software.
 I am strictly against downloading courses as it is strictly against Udemy [TOS](https://www.udemy.com/terms/).
+

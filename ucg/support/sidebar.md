@@ -1,7 +1,7 @@
 
-- [Introduction](README.md)
+- [Introduction](/)
 
-- Installation
+- [Installation](/pages/installation.md)
   - [Windows 64-bit](/pages/windows-64-bit.md)
   - [Python Code](/pages/python-code.md)
 

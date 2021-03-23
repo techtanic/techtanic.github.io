@@ -15,9 +15,8 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
 	<style>
 		:root {
-			--theme-color: rgb(0, 185, 77);
-			--link-color: rgb(0, 98, 179);
-			--link-color--hover: rgb(14, 165, 0);
+			--link-color: rgb(0, 168, 22);
+			--link-color--hover: rgb(220, 78, 255);
 		}
 	</style>
 </head>
@@ -27,6 +26,7 @@
 	<div id="app"></div>
 	<script>
 		window.$docsify = {
+			homepage: 'README.md',
 			logo: "http://techtanic.github.io/ucg/static/images/logo.png",
 			name: 'UCG-Support',
 			loadSidebar: 'sidebar.md',
@@ -37,6 +37,7 @@
 			notFoundPage: 'README.md',
 			alias: {
 				'.*?/changelog': 'https://raw.githubusercontent.com/techtanic/Udemy-Course-Grabber/master/CHANGELOG',
+				'.*?/home' : 'README.md'
 			},
 			auto2top: true
 		}

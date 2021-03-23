@@ -5,3 +5,4 @@
 2. Extract **everything** from the rar to New folder.
 
 3. Run Udemy-Course-Grabber.exe.
+
