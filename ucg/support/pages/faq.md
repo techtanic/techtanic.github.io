@@ -6,7 +6,6 @@
 
 **Explanation:** So far I and many people have used the software, there has been **no** report of people using Udemy-Course-Grabber getting their account suspended.
 
-
 ## Do I need Python to run the Windows 64-bit exe?
 
 **Simple answer:** NO
