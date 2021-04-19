@@ -1,5 +1,5 @@
 # Installation
 
 ### There are two options.
-- [Windows-64-bit exe](pages/windows-64-bit.md) (Use this if you have Windows 64-bit.)
+- [Windows exe](pages/windows.md) (Use this if you have Windows.)
 - [Python Code](pages/python-code.md)

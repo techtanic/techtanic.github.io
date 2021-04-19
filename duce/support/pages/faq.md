@@ -4,9 +4,9 @@
 
 **Simple answer:** Mostly NO.
 
-**Explanation:** So far I and many people have used the software, there has been **no** report of people using Udemy-Course-Grabber getting their account suspended.
+**Explanation:** So far I and many people have used the software, there has been **no** report of people using Discounted-Udemy-Course-Enroller getting their account suspended.
 
-## Do I need Python to run the Windows 64-bit exe?
+## Do I need Python to run the Windows exe?
 
 **Simple answer:** NO
 
