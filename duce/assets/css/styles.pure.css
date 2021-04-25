@@ -43,7 +43,7 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #212529;
+    color: #ffffff;
     background-color: #fff;
     -webkit-text-size-adjust: 100%;
     -webkit-tap-highlight-color: transparent
@@ -5245,7 +5245,7 @@ h4,
 h5,
 h6 {
     font-weight: 600;
-    color: #051441;
+    color: #ffffff;
     margin: 0
 }
 
@@ -5399,7 +5399,7 @@ p {
 .section-title span {
     font-size: 25px;
     font-weight: 700;
-    color: #3763eb;
+    color: #ffffff;
     margin-bottom: 5px
 }
 
@@ -6841,7 +6841,9 @@ button {
 
 .btn-support {
     background: #bf70ff;
-    color: #000 !important
+    padding: 5px 10px !important;
+    transform: translateY(+10px);
+    color: #000 !important;
 }
 
 .btn-support:hover {
