@@ -2298,7 +2298,7 @@ button:not(:disabled) {
 .lni {
     display: inline-block;
     font: normal normal normal 1em/1 LineIcons;
-    speak: none;
+    speak-as: none;
     text-transform: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
@@ -2547,7 +2547,6 @@ button:not(:disabled) {
     content: "\ebf4"
 }
 
-@charset "UTF-8";
 
 @-webkit-keyframes bounce {
 
@@ -13967,7 +13966,7 @@ button {
 .btn-support {
     background: #bf70ff;
     padding: 5px 10px !important;
-    transform: translateY(+10px);
+    transform: translateY(+11px);
     color: #000 !important
 }
 
