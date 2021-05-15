@@ -1,6 +1,6 @@
 - [Introduction](/)
 
-- [Installation](pages/installation.md)
+- [Get Started](pages/get-started.md)
   - [Windows 64-bit](pages/windows.md)
   - [Python Code](pages/python-code.md)
 

@@ -984,23 +984,23 @@ button:not(:disabled) {
     }
 }
 
-.carousel {
+.banner {
     position: relative
 }
 
-.carousel-inner {
+.banner-inner {
     position: relative;
     width: 100%;
     overflow: hidden
 }
 
-.carousel-inner::after {
+.banner-inner::after {
     display: block;
     clear: both;
     content: ""
 }
 
-.carousel-item {
+.banner-item {
     position: relative;
     display: none;
     float: left;
@@ -1012,36 +1012,36 @@ button:not(:disabled) {
 }
 
 @media (prefers-reduced-motion:reduce) {
-    .carousel-item {
+    .banner-item {
         transition: none
     }
 }
 
-.carousel-item.active {
+.banner-item.active {
     display: block
 }
 
-.active.carousel-item-right {
+.active.banner-item-right {
     transform: translateX(100%)
 }
 
-.active.carousel-item-left {
+.active.banner-item-left {
     transform: translateX(-100%)
 }
 
-.carousel-fade .carousel-item {
+.banner-fade .banner-item {
     opacity: 0;
     transition-property: opacity;
     transform: none
 }
 
-.carousel-fade .carousel-item.active {
+.banner-fade .banner-item.active {
     z-index: 1;
     opacity: 1
 }
 
-.carousel-fade .active.carousel-item-left,
-.carousel-fade .active.carousel-item-right {
+.banner-fade .active.banner-item-left,
+.banner-fade .active.banner-item-right {
     z-index: 0;
     opacity: 0;
     transition: opacity 0s .6s
@@ -1049,8 +1049,8 @@ button:not(:disabled) {
 
 @media (prefers-reduced-motion:reduce) {
 
-    .carousel-fade .active.carousel-item-left,
-    .carousel-fade .active.carousel-item-right {
+    .banner-fade .active.banner-item-left,
+    .banner-fade .active.banner-item-right {
         transition: none
     }
 }
@@ -6771,17 +6771,17 @@ p {
     background: rgba(0, 0, 0, .05)
 }
 
-.carousel-section-wrapper {
+.banner {
     position: relative;
     z-index: 3
 }
 
-.carousel-section-wrapper .carousel-section {
+.banner .banner-section {
     position: relative;
     z-index: 3
 }
 
-.carousel-section-wrapper .carousel-section.clip-bg::after {
+.banner .banner-section.clip-bg::after {
     content: '';
     position: absolute;
     top: 0;
@@ -6792,11 +6792,11 @@ p {
     background: linear-gradient(to right, rgba(111, 88, 232, .6) 0, #3763eb 100%)
 }
 
-.carousel-section-wrapper .carousel-section.carousel-item .carousel-content .section-title h2 {
+.banner .banner-section.banner-item .banner-content .section-title h2 {
     margin-bottom: 25px
 }
 
-.carousel-section-wrapper .carousel-section.carousel-item .carousel-content .section-title p {
+.banner .banner-section.banner-item .banner-content .section-title p {
     margin-bottom: 40px
 }
 
@@ -8112,23 +8112,23 @@ button:not(:disabled) {
     }
 }
 
-.carousel {
+.banner {
     position: relative
 }
 
-.carousel-inner {
+.banner-inner {
     position: relative;
     width: 100%;
     overflow: hidden
 }
 
-.carousel-inner::after {
+.banner-inner::after {
     display: block;
     clear: both;
     content: ""
 }
 
-.carousel-item {
+.banner-item {
     position: relative;
     display: none;
     float: left;
@@ -8140,36 +8140,36 @@ button:not(:disabled) {
 }
 
 @media (prefers-reduced-motion:reduce) {
-    .carousel-item {
+    .banner-item {
         transition: none
     }
 }
 
-.carousel-item.active {
+.banner-item.active {
     display: block
 }
 
-.active.carousel-item-right {
+.active.banner-item-right {
     transform: translateX(100%)
 }
 
-.active.carousel-item-left {
+.active.banner-item-left {
     transform: translateX(-100%)
 }
 
-.carousel-fade .carousel-item {
+.banner-fade .banner-item {
     opacity: 0;
     transition-property: opacity;
     transform: none
 }
 
-.carousel-fade .carousel-item.active {
+.banner-fade .banner-item.active {
     z-index: 1;
     opacity: 1
 }
 
-.carousel-fade .active.carousel-item-left,
-.carousel-fade .active.carousel-item-right {
+.banner-fade .active.banner-item-left,
+.banner-fade .active.banner-item-right {
     z-index: 0;
     opacity: 0;
     transition: opacity 0s .6s
@@ -8177,8 +8177,8 @@ button:not(:disabled) {
 
 @media (prefers-reduced-motion:reduce) {
 
-    .carousel-fade .active.carousel-item-left,
-    .carousel-fade .active.carousel-item-right {
+    .banner-fade .active.banner-item-left,
+    .banner-fade .active.banner-item-right {
         transition: none
     }
 }
@@ -13735,17 +13735,17 @@ p {
     background: rgba(0, 0, 0, .05)
 }
 
-.carousel-section-wrapper {
+.banner {
     position: relative;
     z-index: 3
 }
 
-.carousel-section-wrapper .carousel-section {
+.banner .banner-section {
     position: relative;
     z-index: 3
 }
 
-.carousel-section-wrapper .carousel-section.clip-bg::after {
+.banner .banner-section.clip-bg::after {
     content: '';
     position: absolute;
     top: 0;
@@ -13756,11 +13756,11 @@ p {
     background: linear-gradient(to right, rgba(111, 88, 232, .6) 0, #3763eb 100%)
 }
 
-.carousel-section-wrapper .carousel-section.carousel-item .carousel-content .section-title h2 {
+.banner .banner-section.banner-item .banner-content .section-title h2 {
     margin-bottom: 25px
 }
 
-.carousel-section-wrapper .carousel-section.carousel-item .carousel-content .section-title p {
+.banner .banner-section.banner-item .banner-content .section-title p {
     margin-bottom: 40px
 }
 
