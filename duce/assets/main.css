@@ -6808,7 +6808,8 @@ p {
     -moz-transition: all .3s ease-out 0s;
     -ms-transition: all .3s ease-out 0s;
     -o-transition: all .3s ease-out 0s;
-    transition: all .3s ease-out 0s
+    transition: all .3s ease-out 0s;
+    display: inline-block;
 }
 
 .box-style:hover {
@@ -6872,6 +6873,7 @@ p {
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 20px
+    
 }
 
 .time-line {
@@ -13800,6 +13802,7 @@ p {
     background: #fff;
     border: 2px solid #3763eb;
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
     color: #3763eb;
