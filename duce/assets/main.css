@@ -2210,10 +2210,10 @@ p {
   border-radius: 50%;
   text-align: center;
   line-height: 45px;
-  background: rgba(106, 124, 146, 0.1);
+  background: #424242;
   display: block;
   font-size: 1.125rem;
-  color: #6A7C92;
+  color: #ffffff;
   margin-right: 15px;
 }
 
@@ -2252,4 +2252,11 @@ p {
 
 .about {
   color: #ce93d8;
+}
+
+.copyleft{
+  color: #536dfe;
+}
+.copyleft:hover{
+  color: #6f4bf0;
 }
