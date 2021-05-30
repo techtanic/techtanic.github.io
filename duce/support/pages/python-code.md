@@ -12,12 +12,12 @@ pip install -r requirements.txt
 pip3 install -r requirements.txt
 ```
 
-## Run udemy.py
+## Run duce.py
 
 ```CMD
-python udemy.py
+python duce.py
 ```
 
 ```Linux-Terminal
-python3 udemy.py
+python3 duce.py
 ```

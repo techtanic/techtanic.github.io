@@ -6,7 +6,7 @@
 
 - [Login](pages/login.md)
   - [Auto Login](pages/auto-login.md)
-  - [Cookie Login](pages/cookie-login.md)
+  - [Manual Login](pages/manual-login.md)
 - [Troubleshooting](pages/problems.md)
 
 - [FAQ](pages/faq.md)
